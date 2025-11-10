@@ -22,6 +22,8 @@ TOP 5 MODELS BY RATING
 MONTHLY DISCOUNT BY BRANDS				
 				
 YEARLY SALES BY BRANDS				
-				
 
+--Click here to download the dashboard				
+-<a href="https://github.com/souravmandal585/FLIPKART-MOBILE-SALES-ANALYSIS-2020-2024/blob/main/mobile%20sales%20dashboard(sourav).xlsx">dashboard</a>
+hboard</a>
 
