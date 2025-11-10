@@ -1,7 +1,9 @@
 # FLIPKART-MOBILE-SALES-ANALYSIS-2020-2024
 So in this project you will see the dashboard of Flipkart mobile sales in 2020-2024 which i created with the help of only advanced excel and nothing else.
 Here we can can use Data cleaning, data vizualization, data analysis, pivot table, pivot chart and some advanced excel formulas.
-KIP'S are:- TOTAL SALES		
+
+ --KPI'S
+TOTAL SALES		
 		
 MODELS ORIGNAL VALUES		
 		
@@ -11,7 +13,9 @@ TOTAL QUANTITY
 		
 AVG DISOUNT		
 		
-The insights are:- TOP  5 MODELS BY SALES				
+--INSIGHTS:- 
+
+TOP  5 MODELS BY SALES				
 				
 TOP  5 MODEL COLORS BY SALES				
 				
